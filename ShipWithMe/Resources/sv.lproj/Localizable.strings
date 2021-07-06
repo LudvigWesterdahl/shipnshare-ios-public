@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  ShipWithMe
+
+  Created by Ludvig Westerdahl on 2021-03-14.
+  
+*/
+"version_{1}-NC" = "version %@";
+"email-FC" = "E-post";
+"password-FC" = "Lösenord";
+"sign_in-FC" = "Logga in";
+"sign_out-FC" = "Logga ut";
+"sign_up-FC" = "Skapa konto";
+"forgot_password-FC-Q" = "Glömt lösenord?";
+"sign_up-AC" = "Skapa Konto";
+"forgot_password-AC" = "Glömt Lösenord";
+"browse-FC" = "Inlägg";
+"post-FC" = "Skapa";
+"chats-FC" = "Chattar";
+"profile-FC" = "Profil";
+"today_at_{1}-FC" = "Idag kl %@";
+"yesterday_at_{1}-FC" = "Igår kl %@";
+"today-NC-E" = "idag!";
+"select_an_optional_screenshot_image-FC" = "Välj en frivillig screenshot/bild";
+"title_or_website-FC" = "Titel eller hemsida";
+"description-FC" = "Beskrivning";
+"shipping_address-FC" = "Leveransadress";
+"shipping_cost-FC" = "Fraktkostnad";
+"currency-FC" = "Valuta";
+"reset-FC" = "Återställ";
+"error-FC" = "Fel";
+"failed_to_retrieve_the_address-FC-S" = "Misslyckades med att hämta adressen.";
+"close-FC" = "Stäng";
+"cancel-FC" = "Avbryt";
+"change-FC" = "Byt";
+"remove-FC" = "Ta bort";
+"previous_addresses-FC" = "Tidigare adresser";
+"send_chat_request-FC" = "Skicka chatförfrågan";
+"reviews-FC" = "Omdömen";
+"good-FC" = "Bra";
+"good_but-FC" = "Bra men";
+"bad_but-FC" = "Dåligt men";
+"bad-FC" = "Dåligt";
+"your_post-NC" = "ditt inlägg";
+"do_you_really_want_to_delete_the_post-FC-Q" = "Vill du verkligen ta bort inlägget?";
+"no-FC" = "Nej";
+"yes-FC" = "Ja";
+"last_message-FC-K" = "Senaste meddelandet:";
+"leave_a_review-FC-E" = "Lämna ett omdöme!";
+"view_chat_requests-AC" = "Se Chatförfrågningar";
+"chat_requests-AC" = "Chatförfrågningar";
+"new-FC" = "Ny";
+"accept-FC" = "Acceptera";
+"decline-FC" = "Avböj";
+"describe_your_experience_with_{1}-FC" = "Beskriv din upplevelse med %@";
+"leave_chat-FC" = "Lämna chatten";
+"message-FC" = "Meddelande";
+"send-FC" = "Skicka";
+"do_you_really_want_to_leave_the_chat-FC-Q" = "Vill du verkligen lämna chatten?";
+"clear_address_searches-FC" = "Ta bort adressökningar";
+"posts-FC" = "Inlägg";
+"number_of_created_posts-FC" = "Antal skapade inlägg";
+"you_have_no_open_posts-FC" = "Du har inga öppna inlägg";
+"check_your_email_for_confirmation-FC-E" = "Se din inkorg för konfirmation!";
+"email_or_username_is_already_in_use-FC-S" = "E-post eller användarnamn är redan taget.";
+"username-FC" = "Användarnamn";
+"invalid_email_or_password-FC" = "Felaktig e-post eller lösenord";
+"change_or_remove_image-FC" = "Ändra eller ta bort bilden";
+
+"tower_left-DESC" = "Jag borde skaffa mig en ny tröja";
+"tower_right-DESC" = "Jag behöver köpa nya kläder inför festen";
+"neighbours_thinking-DESC" = "Vet du vad dina grannar tänker?";
+"title_or_website-DESC" = "Titeln som beskriver inlägget eller enbart hemsidan. \n Exempel: Kläder från ExampleClothes.com med presentkort";
+"description-DESC" = "Beskriv målet med inlägget. Kommer båda att få gratis frakt om ni handlar för en viss summa? Köper ni i bulk för att få mängdrabatt, och i sådant fall, vilken produkt? Säljer du ett, eller en del av ett, presentkort?";
+"shipping_address-DESC" = "Vart kan man hämta paketet?";
+"shipping_cost-DESC" = "Hur mycket kostar frakten utan någon rabatt? Hur mycket tjänar ni genom att dela på ordern?";
+"currency-DESC" = "Vilken valuta är det tänkt att köpet genomförs med? Vilken valuta står fraktkostnaden i?";

@@ -1,0 +1,92 @@
+/* 
+  Localizable.strings
+  ShipWithMe
+
+  Created by Ludvig Westerdahl on 2021-03-14.
+  
+*/
+// {n} - Format argument
+// AC - All caps
+// NC - No caps
+// FC - First caps
+// OC - Only caps
+// Q - Question (?)
+// S - Sentence (.)
+// E - Exclamation (!)
+// K - Colon (:)
+// DESC - Medium/Long sentence description
+// Example of using arguments
+"hello_{1}_{2}-AC %@ %@" = "Hello %@ %@";
+
+"version_{1}-NC %@" = "version %@";
+"email-FC" = "Email";
+"password-FC" = "Password";
+"sign_in-FC" = "Sign in";
+"sign_out-FC" = "Sign out";
+"sign_up-FC" = "Sign up";
+"forgot_password-FC-Q" = "Forgot password?";
+"sign_up-AC" = "Sign Up";
+"forgot_password-AC" = "Forgot Password";
+"browse-FC" = "Browse";
+"post-FC" = "Post";
+"chats-FC" = "Chats";
+"profile-FC" = "Profile";
+"today_at_{1}-FC %@" = "Today at %@";
+"yesterday_at_{1}-FC %@" = "Yesterday at %@";
+"today-NC-E" = "today!";
+"select_an_optional_screenshot_image-FC" = "Select an optional screenshot/image";
+"title_or_website-FC" = "Title or website";
+"description-FC" = "Description";
+"shipping_address-FC" = "Shipping address";
+"shipping_cost-FC" = "Shipping cost";
+"currency-FC" = "Currency";
+"reset-FC" = "Reset";
+"error-FC" = "Error";
+"failed_to_retrieve_the_address-FC-S" = "Failed to retrieve the address.";
+"close-FC" = "Close";
+"cancel-FC" = "Cancel";
+"change-FC" = "Change";
+"remove-FC" = "Remove";
+"previous_addresses-FC" = "Previous addresses";
+"send_chat_request-FC" = "Send chat request";
+"reviews-FC" = "Reviews";
+"good-FC" = "Good";
+"good_but-FC" = "Good but";
+"bad_but-FC" = "Bad but";
+"bad-FC" = "Bad";
+"your_post-NC" = "your post";
+"delete_post-FC" = "Delete post";
+"do_you_really_want_to_delete_the_post-FC-Q" = "Do you really want to delete the post?";
+"no-FC" = "No";
+"yes-FC" = "Yes";
+"last_message-FC-K" = "Last message:";
+"leave_a_review-FC-E" = "Leave a review!";
+"view_chat_requests-AC" = "View Chat Requests";
+"chat_requests-AC" = "Chat Requests";
+"new-FC" = "New";
+"accept-FC" = "Accept";
+"decline-FC" = "Decline";
+"describe_your_experience_with_{1}-FC %@" = "Describe your experience with %@";
+"leave_chat-FC" = "Leave chat";
+"message-FC" = "Message";
+"send-FC" = "Send";
+"do_you_really_want_to_leave_the_chat-FC-Q" = "Do you really want to leave the chat?";
+"clear_address_searches-FC" = "Clear address searches";
+"posts-FC" = "Posts";
+"number_of_created_posts-FC" = "Number of created posts";
+"you_have_no_open_posts-FC" = "You have no open posts";
+"check_your_email_for_confirmation-FC-E" = "Check your email for confirmation!";
+"email_or_username_is_already_in_use-FC-S" = "Email or user name is already in use.";
+"username-FC" = "User name";
+"invalid_email_or_password-FC" = "Invalid email or password";
+"change_or_remove_image-FC" = "Change or remove image";
+
+"tower_left-DESC" = "I should get a new shirt";
+"tower_right-DESC" = "I need new clothes for the party";
+"neighbours_thinking-DESC" = "Do you know what your neighbours are thinking?";
+"title_or_website-DESC" = "The title describing the post or simply the website. \n Example: Clothes from ExampleClothes.com using a gift card";
+"description-DESC" = "Explain the goal of the post. Will both of you get free shipping if you reach a certain order size? Are you buying bulk to lower the price and if so what product? Are you selling a part or a whole gift card for a discount?";
+"shipping_address-DESC" = "Where can one pick up the packet?";
+"shipping_cost-DESC" = "How much would the shipping cost without any discount? In other words, how much do you save by sharing this order?";
+"currency-DESC" = "Whats the currency of the order? What currency did you put your shipping cost in?";
+
